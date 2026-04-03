@@ -1,7 +1,7 @@
 # Hi, I'm Ömer Zafer Akça
 ### Data Scientist & AI Engineer from Turkey
 
-## 💼 Key Projects
+## Key Projects
 - **AI-Powered Ergonomic Holter Device (TÜBİTAK 1507)**  
   Optimized hardware-level (UART, SPI, I2C, CAN) data acquisition, developed a 1D-CNN deep learning model for arrhythmia detection with 96% F1 score, and built a ReactJS clinical dashboard with real-time visualization.
 
